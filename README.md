@@ -1,5 +1,5 @@
-### Matt Hart - Data Analyst Portfolio
-## 📊 Data Analyst | Python, SQL, Tableau | Passionate about turning data into insights.
+## Matt Hart
+### 📊 Data Analyst | Python, SQL, Tableau | Passionate about turning data into insights.
 
 <!--
 **HartMG/HartMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
