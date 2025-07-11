@@ -1,6 +1,6 @@
 ## Matt Hart
 ### 📊 Data Analyst | Python, SQL, Tableau | Passionate about turning data into insights.
-> Hello, I'm Matt. I have a background in information technology, public service, and earned my M.S. in Data Analytics and Information Systems from Texas State University in spring 2025. I currently work as a Senior IT Business Systems Analyst for an energy utility in Austin, and I am excited to use my analytical skills to help uncover valuable insights and guide business decision making. 
+> Hello, I'm Matt. I have a background in information technology, data analysis, and earned my M.S. in Data Analytics and Information Systems from Texas State University in spring 2025. I currently work as a Senior IT Business Systems Analyst for an energy utility in Austin, and I am excited to use my analytical skills to help uncover valuable insights and guide business decision making. 
 <!--
 **HartMG/HartMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
