@@ -6,6 +6,9 @@ Hello, I'm Matt. I have a background in information technology, data analysis, a
 This is a repository demonstrating some of my data analytics, database management, and visualization work. 
 
 ## Portfolio Projects
+### Analyzing and Predicting Electricity Prices in Houston, TX
+<strong>Code:</strong> [Electricity Price Analysis.ipynb](https://github.com/HartMG/HartMG/blob/main/ElectricityAnalysis.ipynb)
+
 <!--
 **HartMG/HartMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
