@@ -10,7 +10,7 @@ This is a repository demonstrating some of my data analytics, database managemen
 <strong>Code:</strong> [Electricity Price Analysis.ipynb](https://github.com/HartMG/HartMG/blob/main/ElectricityAnalysis.ipynb)
 
 ### SQL: Cleaning, Normalization, and Insights with Superstore Dataset
-<strong>Code:</strong> [Superstore Database.SQL](https://github.com/HartMG/HartMG/blob/main/ElectricityAnalysis.ipynb)
+<strong>Code:</strong> [Superstore Database.SQL](https://github.com/HartMG/HartMG/blob/main/superstore_db.sql)
 
 <!--
 **HartMG/HartMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
