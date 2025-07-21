@@ -22,7 +22,7 @@ This is a repository demonstrating some of my data analytics, database managemen
 
 <strong>Technology:</strong> SQLite, Python (for converting CSV to DB)
 
-<strong>Data source:</strong> Data was exported from Kaggle's [Global Superstore Dataset](https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset). I converted the CSV to a DB file using a Python script. [Download my DB](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/superstore-MH.db) to test and practice my SQL. 
+<strong>Data source:</strong> Data was exported from Kaggle's [Global Superstore Dataset](https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset). I modified the order date and ship date columns for this project since they had non-varying values. I then converted the CSV to a DB file using a Python script. [Download my export](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/superstore-MH.csv) to test and practice my SQL. 
 
 
 <!--
