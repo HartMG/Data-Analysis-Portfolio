@@ -18,11 +18,11 @@ This is a repository demonstrating some of my data analytics, database managemen
 ### SQL: Cleaning, Normalization, and Insights with Superstore Dataset
 <strong>Code:</strong> [Superstore Database.SQL](https://github.com/HartMG/HartMG/blob/main/superstore_db.sql)
 
-<strong>Overview:</strong> This SQL project demonstrates my data analysis techniques using a Superstore dataset. Techniques include data cleaning, normalization, aggregation, filtering, and business insights.
+<strong>Overview:</strong> This SQL project demonstrates my query and analytics techniques using a Superstore dataset. Techniques include data cleaning, normalization, aggregation, filtering, and business insights.
 
 <strong>Technology:</strong> SQLite, Python (for converting CSV to DB)
 
-<strong>Data source:</strong> Data was exported from Kaggle's [Global Superstore Dataset](https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset). I modified the order date and ship date columns for this project since they had non-varying values. I then converted the CSV to a DB file using a Python script. [Download my export](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/superstore-MH.csv) to test and practice my SQL. 
+<strong>Data source:</strong> Data was exported from Kaggle's [Global Superstore Dataset](https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset). I modified the order date and ship date columns for this project since they had non-varying values. I then converted the CSV to a DB file using a [Python script](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/superstore.ipynb). [Download my export](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/superstore-MH.csv) to test and practice my SQL. 
 
 
 <!--
