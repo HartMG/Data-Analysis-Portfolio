@@ -9,11 +9,11 @@ This is a repository demonstrating some of my data analytics, database managemen
 ### Python: Analyzing and Predicting Electricity Prices in Houston, TX
 <strong>Code:</strong> [Electricity Price Analysis.ipynb](https://github.com/HartMG/HartMG/blob/main/ElectricityAnalysis.ipynb)
 
-<strong>Overview:</strong> This Python code demonstrates my process of cleaning, analyzing (EDA), cross validating, and predicting electricity prices in Houston, TX based on Consumer Price Index data from January 1979 through August 2024. 
+<strong>Overview:</strong> This Python code demonstrates my process of cleaning, analyzing (EDA), cross validating, and forecasting electricity prices in Houston, TX based on Consumer Price Index data from January 1979 through August 2024. 
 
 <strong>Technology:</strong> Python, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Statsmodels
 
-<strong>Data source:</strong> Data was exported from the [U.S. Bureau of Labor Statistics](https://www.bls.gov/regions/midwest/data/averageenergyprices_selectedareas_table.htm) website. [Download my export](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/Houston_Electricity_Data.xlsx) to test and practice with my code.  
+<strong>Data source:</strong> Data was exported from the [U.S. Bureau of Labor Statistics](https://www.bls.gov/regions/midwest/data/averageenergyprices_selectedareas_table.htm) website. [Download my data export](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/Houston_Electricity_Data.xlsx) to test and practice with my code.  
 
 ### SQL: Cleaning, Normalization, and Insights with Superstore Dataset
 <strong>Code:</strong> [Superstore Database.SQL](https://github.com/HartMG/HartMG/blob/main/superstore_db.sql)
@@ -22,7 +22,7 @@ This is a repository demonstrating some of my data analytics, database managemen
 
 <strong>Technology:</strong> SQLite, Python (for converting CSV to DB)
 
-<strong>Data source:</strong> Data was exported from Kaggle's [Global Superstore Dataset](https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset). I modified the order date and ship date columns for this project since they had non-varying values. I then converted the CSV to a DB file using a [Python script](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/superstore.ipynb). [Download my export](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/superstore-MH.csv) to test and practice my SQL. 
+<strong>Data source:</strong> Data was exported from Kaggle's [Global Superstore Dataset](https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset). I modified the order date and ship date columns for this project since they had non-varying values. I then converted the CSV to a DB file using a [Python script](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/superstore.ipynb). [Download my data export](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/superstore-MH.csv) to test and practice my SQL. 
 
 
 <!--
