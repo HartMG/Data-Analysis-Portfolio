@@ -27,7 +27,7 @@ This is a repository demonstrating some of my data analytics, database managemen
 ### Tableau: Website Traffic Dashboard and Insights
 <strong>Dashboard:</strong> [Website Traffic Dashboard](https://public.tableau.com/views/WebTrafficVisualization_17594291911320/WebsiteDataDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-<strong>Overview:</strong> This Tableau dashboard visualizes key website performance metrics such as page views, bounce rate, average time on page, and conversion rate. The dashboard compares traffic sources (organic, direct, paid, referral, and social) and highlights which channels generate the highest engagement and conversions. Visual elements include an interactive KPI summary, a bar-and-line combo chart for traffic volume and conversion efficiency, and a trend view to monitor performance over time.
+<strong>Overview:</strong> This Tableau dashboard visualizes key website performance metrics such as page views, bounce rate, average time on page, and conversion rate. The dashboard compares traffic sources (organic, direct, paid, referral, and social) and highlights which channels generate the highest engagement and conversions over time.
 
 <strong>Technology:</strong> Tableau, Tableau Calculated Fields, Dashboard Actions, Excel/CSV (for data prep)
 
