@@ -25,13 +25,13 @@ This is a repository demonstrating some of my data analytics, database managemen
 <strong>Data source:</strong> Data was exported from Kaggle's [Global Superstore Dataset](https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset). I modified the order date and ship date columns for this project since they had non-varying values. I then converted the CSV to a DB file using a [Python script](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/superstore.ipynb). [Download my data export](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/superstore-MH.csv) to test and practice my SQL. 
 
 ### Tableau: Website Traffic Dashboard and Insights
-<strong>Dashboard:</strong> <a href="https://public.tableau.com/views/WebTrafficVisualization_17594291911320/WebsiteDataDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">Website Traffic Dashboard</a>
+<strong>Dashboard:</strong> [Website Traffic Dashboard](https://public.tableau.com/views/WebTrafficVisualization_17594291911320/WebsiteDataDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <strong>Overview:</strong> This Tableau dashboard visualizes key website performance metrics such as page views, bounce rate, average time on page, and conversion rate. The dashboard compares traffic sources (organic, direct, paid, referral, and social) and highlights which channels generate the highest engagement and conversions. Visual elements include an interactive KPI summary, a bar-and-line combo chart for traffic volume and conversion efficiency, and a trend view to monitor performance over time.
 
 <strong>Technology:</strong> Tableau, Tableau Calculated Fields, Dashboard Actions, Excel/CSV (for data prep)
 
-<strong>Data source:</strong> Data comes from Kaggle’s [Website Traffic Dataset](https://www.kaggle.com/datasets/anthonytherrien/website-traffic), which includes traffic by source, session metrics, and engagement data. I modified the original dataset by randomly generating a Date dimension to demonstrate trends over time. [Download my data export] to test and visualize my data. 
+<strong>Data source:</strong> Data comes from Kaggle’s [Website Traffic Dataset](https://www.kaggle.com/datasets/anthonytherrien/website-traffic), which includes traffic by source, session metrics, and engagement data. I modified the original dataset by randomly generating a Date dimension to demonstrate trends over time. [Download my data export](https://github.com/HartMG/Data-Analysis-Portfolio/blob/cb6eb37938cf8174b2754065277b58af0757fe31/website_data.csv) to test and visualize my data. 
 <!--
 **HartMG/HartMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
