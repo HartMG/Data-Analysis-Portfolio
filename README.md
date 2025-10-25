@@ -20,7 +20,7 @@ This is a repository demonstrating some of my data analytics, database managemen
 
 <strong>Overview:</strong> This SQL project demonstrates my query and analytics techniques using a Superstore dataset. Techniques include data cleaning, normalization, aggregation, filtering, and business insights.
 
-<strong>Technology:</strong> SQLite, Python (for converting CSV to DB)
+<strong>Technology:</strong> SQLite, Python (for converting CSV to DB), Excel/CSV (for data prep)
 
 <strong>Data source:</strong> Data was exported from Kaggle's [Global Superstore Dataset](https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset). I modified the order date and ship date columns for this project since they had non-varying values. I then converted the CSV to a DB file using a [Python script](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/superstore.ipynb). [Download my data export](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/superstore-MH.csv) to test and practice my SQL. 
 
@@ -29,7 +29,7 @@ This is a repository demonstrating some of my data analytics, database managemen
 
 <strong>Overview:</strong> This Tableau dashboard visualizes key website performance metrics such as page views, bounce rate, average time on page, and conversion rate. The dashboard compares traffic sources (organic, direct, paid, referral, and social) and highlights which channels generate the highest engagement and conversions. Visual elements include an interactive KPI summary, a bar-and-line combo chart for traffic volume and conversion efficiency, and a trend view to monitor performance over time.
 
-<strong>Technology:</strong> Tableau, Excel/CSV (for data prep), Tableau Calculated Fields, Dashboard Actions
+<strong>Technology:</strong> Tableau, Tableau Calculated Fields, Dashboard Actions, Excel/CSV (for data prep)
 
 <strong>Data source:</strong> Data comes from Kaggle’s [Website Traffic Dataset](https://www.kaggle.com/datasets/anthonytherrien/website-traffic), which includes traffic by source, session metrics, and engagement data. I modified the original dataset by randomly generating a Date dimension to demonstrate trends over time. [Download my data export] to test and visualize my data. 
 <!--
