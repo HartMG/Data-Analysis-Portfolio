@@ -1,7 +1,7 @@
 # Matt Hart
 ### 📊 M.S. Data Analytics and Information Systems | Python, SQL, Tableau | Passionate about turning data into insights.
 ## About  
-Hello, I'm Matt. I have a background in information technology and data analysis, and I earned my M.S. in Data Analytics and Information Systems from Texas State University in Spring 2025. I currently work as a Senior IT Business Systems Analyst for an energy utility in Austin, TX. I'm interested in additional opportunities to apply my analytical skills to uncover insights and support data-driven decision making. 
+Hello, I'm Matt. I have a background in information technology and data analytics, and I earned my M.S. in Data Analytics and Information Systems from Texas State University in Spring 2025. I currently work as a Senior IT Business Systems Analyst for an energy utility in Austin, TX. I'm interested in additional opportunities to apply my analytical skills to uncover insights and support data-driven decision making. 
 
 This is a repository demonstrating some of my data analytics, database management, and visualization work. 
 
@@ -24,7 +24,14 @@ This is a repository demonstrating some of my data analytics, database managemen
 
 <strong>Data source:</strong> Data was exported from Kaggle's [Global Superstore Dataset](https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset). I modified the order date and ship date columns for this project since they had non-varying values. I then converted the CSV to a DB file using a [Python script](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/superstore.ipynb). [Download my data export](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/superstore-MH.csv) to test and practice my SQL. 
 
+### Tableau: Website Traffic Dashboard and Insights
+<strong>Dashboard:</strong>
 
+<strong>Overview:</strong> This Tableau dashboard visualizes key website performance metrics such as page views, bounce rate, average time on page, and conversion rate. The dashboard compares traffic sources (organic, direct, paid, referral, and social) and highlights which channels generate the highest engagement and conversions. Visual elements include an interactive KPI summary, a bar-and-line combo chart for traffic volume and conversion efficiency, and a trend view to monitor performance over time.
+
+<strong>Technology:</strong> Tableau, Excel/CSV (for data prep), Tableau Calculated Fields, Dashboard Actions
+
+<strong>Data source:</strong> Data comes from Kaggle’s [Website Traffic Dataset](https://www.kaggle.com/datasets/anthonytherrien/website-traffic), which includes traffic by source, session metrics, and engagement data. I modified the original dataset by randomly generating a Date dimension to demonstrate trends over time. [Download my data export] to test and visualize my data. 
 <!--
 **HartMG/HartMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
