@@ -22,7 +22,7 @@ This is a repository demonstrating some of my data analytics, database managemen
 
 <strong>Technology:</strong> Python, Pandas, Statsmodels, Sklearn, Imblearn
 
-<strong>Data source:</strong> Sample data was provided uniquely for a university project. 
+<strong>Data source:</strong> Sample data was provided uniquely for a university project. Part 1 uses [Unbalanced_Binary_Dataset.csv](https://github.com/HartMG/Data-Analysis-Portfolio/blob/076320a636f112061bb7810d894e82581fa7f93a/Unbalanced_Binary_Dataset.csv) and part 2 uses [glass.csv](https://github.com/HartMG/Data-Analysis-Portfolio/blob/076320a636f112061bb7810d894e82581fa7f93a/glass.csv)
 
 ### SQL: Cleaning, Normalization, and Insights with Superstore Dataset
 <strong>Code:</strong> [Superstore Database.SQL](https://github.com/HartMG/HartMG/blob/main/superstore_db.sql)
