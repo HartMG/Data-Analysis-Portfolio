@@ -13,7 +13,16 @@ This is a repository demonstrating some of my data analytics, database managemen
 
 <strong>Technology:</strong> Python, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Statsmodels
 
-<strong>Data source:</strong> Data was exported from the [U.S. Bureau of Labor Statistics](https://www.bls.gov/regions/midwest/data/averageenergyprices_selectedareas_table.htm) website. [Download my data export](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/Houston_Electricity_Data.xlsx) to test and practice with my code.  
+<strong>Data source:</strong> Data was exported from the [U.S. Bureau of Labor Statistics](https://www.bls.gov/regions/midwest/data/averageenergyprices_selectedareas_table.htm) website. [Download my data export](https://github.com/HartMG/Data-Analysis-Portfolio/blob/main/Houston_Electricity_Data.xlsx) to test and practice with my code.
+
+### Python: Applying Machine Learning Techniques to Find the Best Model
+<strong>Code:</strong> [Electricity Price Analysis.ipynb](https://github.com/HartMG/HartMG/blob/main/ElectricityAnalysis.ipynb)
+
+<strong>Overview:</strong> Part 1 of this python script demonstrates my process of evaluating predictors that influence crop yield, including their beta coefficients and p-values. I then applying various classification alogrithms to determine the best model. Part 2 follows a similar methodology by evaluating glass elements that influence a particular type of glass. A [report of my analysis] demonstrates my tabular approach to compare recall balances and precision averages in an effort to select the best model in each scenario. 
+
+<strong>Technology:</strong> Python, Pandas, Statsmodels, Sklearn, Imblearn
+
+<strong>Data source:</strong> Sample data was provided uniquely for a university project. 
 
 ### SQL: Cleaning, Normalization, and Insights with Superstore Dataset
 <strong>Code:</strong> [Superstore Database.SQL](https://github.com/HartMG/HartMG/blob/main/superstore_db.sql)
